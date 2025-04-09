@@ -13,7 +13,8 @@ If the command output contains "Python" and a version number, your computer can 
 2. Backup your DITA project. 
 3. Open a command line window.
 4. Navigate to your DITA project.
-5. Type the following command. `python remove_double_spaces.py`
+5. Type this command.  
+`python remove_double_spaces.py`
 
 ## Package contents
 * `python remove_double_spaces.py` python module
